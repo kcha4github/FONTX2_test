@@ -1,0 +1,16 @@
+obj\Release\fontx2.exe
+obj\Release\fontx2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\fontx2.mainForm.resources
+obj\Debug\fontx2.Properties.Resources.resources
+obj\Debug\fontx2.csproj.GenerateResource.Cache
+obj\Debug\fontx2.exe
+obj\Debug\fontx2.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\fontx2.mainForm.resources
+obj\Release\fontx2.Properties.Resources.resources
+obj\Release\fontx2.csproj.GenerateResource.Cache
+bin\Release\fontx2.exe
+bin\Release\fontx2.pdb
+bin\Debug\fontx2.exe
+bin\Debug\fontx2.pdb

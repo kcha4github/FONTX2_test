@@ -1,0 +1,9 @@
+C:\Users\kunio\Desktop\自習\fontx2\fontx2\bin\Release\fontx2.exe
+C:\Users\kunio\Desktop\自習\fontx2\fontx2\bin\Release\fontx2.pdb
+C:\Users\kunio\Desktop\自習\fontx2\fontx2\obj\Release\fontx2.csprojResolveAssemblyReference.cache
+C:\Users\kunio\Desktop\自習\fontx2\fontx2\obj\Release\fontx2.mainForm.resources
+C:\Users\kunio\Desktop\自習\fontx2\fontx2\obj\Release\fontx2.Properties.Resources.resources
+C:\Users\kunio\Desktop\自習\fontx2\fontx2\obj\Release\fontx2.csproj.GenerateResource.Cache
+C:\Users\kunio\Desktop\自習\fontx2\fontx2\obj\Release\fontx2.csproj.CoreCompileInputs.cache
+C:\Users\kunio\Desktop\自習\fontx2\fontx2\obj\Release\fontx2.exe
+C:\Users\kunio\Desktop\自習\fontx2\fontx2\obj\Release\fontx2.pdb
